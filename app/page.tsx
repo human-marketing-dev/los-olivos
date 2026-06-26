@@ -15,7 +15,7 @@ export default function Home() {
       <LandingClient />
       <About />
       <Features />
-      <ValueProps />
+      {/* <ValueProps /> */}
       <MasterPlan />
       <Amenities />
       <Gallery />
