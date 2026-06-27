@@ -58,9 +58,9 @@ export default function Header({ onCta }: HeaderProps) {
           <Image
             src={solid ? "/assets/logo/los-olivos-logo.png" : "/assets/logo/los-olivos-logo-white.png"}
             alt="Los Olivos · Residencial Campestre"
-            width={220}
-            height={56}
-            style={{ height: 52, width: "auto" }}
+            width={300}
+            height={80}
+            style={{ height: 72, width: "auto" }}
             priority
           />
         </a>

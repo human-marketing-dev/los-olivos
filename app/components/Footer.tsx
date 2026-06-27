@@ -51,9 +51,9 @@ export default function Footer() {
             <Image
               src="/assets/logo/los-olivos-logo-white.png"
               alt="Los Olivos · Residencial Campestre"
-              width={360}
-              height={96}
-              style={{ height: 90, width: "auto" }}
+              width={440}
+              height={120}
+              style={{ height: 112, width: "auto" }}
             />
             <p
               style={{
