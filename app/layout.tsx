@@ -27,7 +27,7 @@ const ibmPlexMono = IBM_Plex_Mono({
 export const metadata: Metadata = {
   title: "Los Olivos · Residencial Campestre",
   description:
-    "Lotes campestres entre olivos y sierra en Allende, Nuevo León. Un patrimonio que crece contigo — naturaleza, familia y plusvalía en un mismo lugar.",
+    "Lotes campestres entre olivos y sierra en Montemorelos, Nuevo León. Un patrimonio que crece contigo — naturaleza, familia y plusvalía en un mismo lugar.",
   openGraph: {
     title: "Los Olivos · Residencial Campestre",
     description:

@@ -118,9 +118,9 @@ export default function LeadForm() {
             <div style={{ display: "flex", flexDirection: "column", gap: 15 }}>
               {(
                 [
-                  ["phone", "81 1234 5678"],
+                  ["phone", "81 2040 4040"],
                   ["mail", "info@humanmarketing.mx"],
-                  ["map-pin", "Allende, Nuevo León"],
+                  ["map-pin", "Montemorelos, Nuevo León"],
                 ] as [string, string][]
               ).map(([ic, tx]) => (
                 <div

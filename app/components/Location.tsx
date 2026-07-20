@@ -4,7 +4,7 @@ import Icon from "./Icon";
 const FACTS = [
   {
     icon: "map-pin",
-    t: "Allende, Nuevo León",
+    t: "Montemorelos, Nuevo León",
     d: "Corazón de la región citrícola, al sureste de Monterrey.",
   },
   {
@@ -76,7 +76,7 @@ export default function Location() {
               lineHeight: 1.04,
             }}
           >
-            En Allende, el campo
+            En Montemorelos, el campo
             <br />
             <span style={{ fontStyle: "italic", color: "var(--olive-200)" }}>
               a la puerta de la ciudad.
@@ -138,7 +138,7 @@ export default function Location() {
             ))}
           </div>
           <a
-            href="https://www.google.com/maps/search/?api=1&query=Allende,+Nuevo+Leon"
+            href="https://www.google.com/maps/search/?api=1&query=Montemorelos,+Nuevo+Leon"
             target="_blank"
             rel="noopener noreferrer"
             style={{
@@ -180,7 +180,7 @@ export default function Location() {
             height="100%"
             preserveAspectRatio="xMidYMid slice"
             style={{ display: "block" }}
-            aria-label="Mapa de Nuevo León con Allende marcado"
+            aria-label="Mapa de Nuevo León con Montemorelos marcado"
           >
             <g fill="none" stroke="rgba(255,255,255,0.07)" strokeWidth="1.5">
               <path d="M-20,250 C90,210 150,250 230,210 C300,175 360,200 430,160" />
@@ -234,7 +234,7 @@ export default function Location() {
                 fontSize="13"
                 fontWeight="700"
               >
-                Allende
+                Montemorelos
               </text>
               <text
                 x="14"

@@ -14,9 +14,8 @@ const COLS = [
   {
     h: "Contacto",
     items: [
-      ["info@humanmarketing.mx", "#contacto"],
-      ["81 1234 5678", "#contacto"],
-      ["Allende, N.L.", "#ubicacion"],
+      ["81 2040 4040", "#contacto"],
+      ["Montemorelos, N.L.", "#ubicacion"],
     ],
   },
 ];
@@ -66,7 +65,7 @@ export default function Footer() {
                 marginBottom: 0,
               }}
             >
-              Desarrollo residencial campestre en Allende, Nuevo León. Un
+              Desarrollo residencial campestre en Montemorelos, Nuevo León. Un
               patrimonio que crece contigo.
             </p>
             <div

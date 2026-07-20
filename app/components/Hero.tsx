@@ -7,7 +7,7 @@ interface HeroProps {
 }
 
 const STATS = [
-  { k: "Lotes desde", v: "980 m²" },
+  { k: "Lotes desde", v: "1500 m²" },
   { k: "De Monterrey", v: "40 min" },
   { k: "Entrega", v: "Inmediata" },
 ];
@@ -97,7 +97,7 @@ export default function Hero({ onPrimary, onSecondary }: HeroProps) {
                 fontSize: 12,
               }}
             >
-              Allende · Nuevo León
+              Montemorelos · Nuevo León
             </span>
           </div>
           <h1
