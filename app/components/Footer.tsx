@@ -21,8 +21,8 @@ const COLS = [
 ];
 
 const SOCIAL = [
-  { icon: "instagram", href: "https://instagram.com", label: "Instagram" },
-  { icon: "facebook", href: "https://facebook.com", label: "Facebook" },
+  { icon: "instagram", href: "https://www.instagram.com/losolivos_residencialcampestre/", label: "Instagram" },
+  { icon: "facebook", href: "https://www.facebook.com/profile.php?id=61567173686919", label: "Facebook" },
 ];
 
 export default function Footer() {
