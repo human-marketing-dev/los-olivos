@@ -29,7 +29,7 @@ export default function LeadForm() {
       className="lo-pad"
       style={{
         background: "var(--surface-page)",
-        padding: "104px 32px 110px",
+        padding: "104px 32px 40px",
       }}
     >
       <div
@@ -119,7 +119,6 @@ export default function LeadForm() {
               {(
                 [
                   ["phone", "81 2040 4040"],
-                  ["mail", "info@humanmarketing.mx"],
                   ["map-pin", "Montemorelos, Nuevo León"],
                 ] as [string, string][]
               ).map(([ic, tx]) => (

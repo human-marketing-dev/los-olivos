@@ -1,5 +1,6 @@
 import Image from "next/image";
 import Icon from "./Icon";
+import type { CSSProperties } from "react";
 
 interface HeroProps {
   onPrimary: () => void;
@@ -25,14 +26,22 @@ export default function Hero({ onPrimary, onSecondary }: HeroProps) {
         alignItems: "center",
       }}
     >
-      <Image
-        src="/assets/img/hero-acceso.webp"
-        alt="Acceso a Los Olivos al atardecer"
-        fill
-        sizes="100vw"
-        style={{ objectFit: "cover", objectPosition: "center 40%" }}
-        priority
-      />
+      <video
+        autoPlay
+        muted
+        loop
+        playsInline
+        style={{
+          position: "absolute",
+          inset: 0,
+          width: "100%",
+          height: "100%",
+          objectFit: "cover",
+          objectPosition: "center 40%",
+        } as CSSProperties}
+      >
+        <source src="/hero-losolivos.mp4" type="video/mp4" />
+      </video>
       <div
         aria-hidden="true"
         style={{
