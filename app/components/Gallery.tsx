@@ -5,11 +5,11 @@ import Image from "next/image";
 import Icon from "./Icon";
 
 const GALLERY = [
-  { src: "/aerea-los-olivos.webp", cap: "Acceso principal" },
+  { src: "/aerea-los-olivos.webp", cap: "Vista aérea del desarrollo" },
   { src: "/assets/img/gallery/g-aerea.webp", cap: "Glorieta de acceso · vista aérea" },
-  { src: "/aerea-los-olivos-2.webp", cap: "Caseta y pórtico de acceso" },
+  { src: "/aerea-los-olivos-2.webp", cap: "Toma aérea · Los Olivos" },
   { src: "/assets/img/gallery/g-alameda.webp", cap: "Parque lineal y alameda" },
-  { src: "/aerea-los-olivos-3.webp", cap: "Pórtico de acceso" },
+  { src: "/aerea-los-olivos-3.webp", cap: "Vista aérea · entorno natural" },
 ];
 
 interface GalleryItem {
