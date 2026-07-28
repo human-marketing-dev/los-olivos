@@ -10,7 +10,7 @@ interface HeroProps {
 const STATS = [
   { k: "Lotes desde", v: "1500 m²" },
   { k: "De Monterrey", v: "40 min" },
-  { k: "Entrega", v: "Inmediata" },
+  { k: "Proyecto", v: "Desarrollo" },
 ];
 
 export default function Hero({ onPrimary, onSecondary }: HeroProps) {
@@ -40,7 +40,7 @@ export default function Hero({ onPrimary, onSecondary }: HeroProps) {
           objectPosition: "center 40%",
         } as CSSProperties}
       >
-        <source src="/v2-C.mp4" type="video/mp4" />
+        <source src="/v3-b.mp4" type="video/mp4" />
       </video>
       <div
         aria-hidden="true"
