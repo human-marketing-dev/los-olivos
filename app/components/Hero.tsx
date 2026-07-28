@@ -40,7 +40,7 @@ export default function Hero({ onPrimary, onSecondary }: HeroProps) {
           objectPosition: "center 40%",
         } as CSSProperties}
       >
-        <source src="/hero-losolivos.mp4" type="video/mp4" />
+        <source src="/v2-C.mp4" type="video/mp4" />
       </video>
       <div
         aria-hidden="true"
