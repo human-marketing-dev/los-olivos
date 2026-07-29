@@ -64,7 +64,7 @@ export default function MasterPlan() {
         >
           <div style={{ overflowX: "auto", WebkitOverflowScrolling: "touch" as "touch" }}>
             <Image
-              src="/PlanoOlivos-SinComercial.webp"
+              src="/PlanoOlivos—SinComercial.webp"
               alt="Master plan de Los Olivos con sus amenidades"
               width={2400}
               height={1350}
