@@ -10,7 +10,7 @@ interface HeroProps {
 const STATS = [
   { k: "Lotes desde", v: "1500 m²" },
   { k: "De Monterrey", v: "40 min" },
-  { k: "Proyecto", v: "Desarrollo" },
+  { k: "en Desarrollo", v: "Proyecto" },
 ];
 
 export default function Hero({ onPrimary, onSecondary }: HeroProps) {
@@ -120,7 +120,7 @@ export default function Hero({ onPrimary, onSecondary }: HeroProps) {
               margin: 0,
             }}
           >
-            Tu refugio en el campo,
+            Tu refugio entre los árboles,
             <br />
             <span
               style={{
@@ -142,7 +142,7 @@ export default function Hero({ onPrimary, onSecondary }: HeroProps) {
               margin: "24px 0 38px",
             }}
           >
-            Lotes campestres entre olivos y sierra. Un patrimonio que crece
+            Lotes campestres residenciales entre olivos y sierra. Un patrimonio que crece
             contigo — naturaleza, familia y plusvalía en un mismo lugar.
           </p>
           <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
