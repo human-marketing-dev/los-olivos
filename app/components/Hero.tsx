@@ -143,7 +143,7 @@ export default function Hero({ onPrimary, onSecondary }: HeroProps) {
             }}
           >
             Lotes campestres residenciales entre olivos y sierra. Un patrimonio que crece
-            contigo — naturaleza, familia y plusvalía en un mismo lugar.
+            contigo. Naturaleza, familia y plusvalía en un mismo lugar.
           </p>
           <div style={{ display: "flex", gap: 14, flexWrap: "wrap" }}>
             <button
