@@ -89,7 +89,7 @@ export default function About() {
                 lineHeight: 1.45,
               }}
             >
-              de Monterrey — el campo sin alejarte de la ciudad.
+              de Monterrey, el campo sin alejarte de la ciudad.
             </div>
           </div>
         </div>
@@ -108,7 +108,7 @@ export default function About() {
               lineHeight: 1.04,
             }}
           >
-            Un escape al campo,
+            Un escape,
             <br />
             <span style={{ fontStyle: "italic", color: "var(--olive-600)" }}>
               sin alejarte de todo.

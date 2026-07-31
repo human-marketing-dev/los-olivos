@@ -14,7 +14,7 @@ const FACTS = [
   },
   {
     icon: "mountain",
-    t: "Entorno de sierra",
+    t: "Entorno natural",
     d: "Clima templado, naturaleza y vistas abiertas.",
   },
 ];

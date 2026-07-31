@@ -47,7 +47,7 @@ export default function Amenities() {
                 lineHeight: 1.04,
               }}
             >
-              Siete formas de vivir el campo
+              Un entorno pensado para disfrutar
             </h2>
           </div>
           <p
